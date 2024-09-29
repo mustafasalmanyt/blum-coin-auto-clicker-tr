@@ -1,0 +1,9 @@
+kurulması gereken kütüphaneler
+
+numpy
+opencv-python
+keyboard
+mss
+pygetwindow
+pywin32
+pywinauto
